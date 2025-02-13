@@ -585,13 +585,3 @@ while True:
     message = connection.recv(1024)
     message = message.decode()
     print(client_name, '>', message)
-
-
-
-
-
-
-
-
-
-	
